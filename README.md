@@ -1,7 +1,7 @@
 # Pixelate
  image processing and path planning to take the robot to its destination in real-time traffic.
 
-#Arena Description : 
+# Arena Description : 
 The arena contains 12X12 square grids each of which contains following:
 Patient location: There are two locations. They are represented by pink 
 colored tile. Under each pink color, blue square and blue circle are hidden 
