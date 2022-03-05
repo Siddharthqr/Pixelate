@@ -1,5 +1,8 @@
 # Pixelate
  image processing and path planning to take the robot to its destination in real-time traffic.
+ 
+# Code Description
+ Created a python program which uses opencv to visualize and process the image and then planned the shortest path using Dijkstra Algorithm of data structure graph.
 
 # Arena Description : 
 The arena contains 12X12 square grids each of which contains following:
