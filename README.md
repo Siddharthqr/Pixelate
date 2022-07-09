@@ -1,5 +1,7 @@
 # Pixelate
- image processing and path planning to take the robot to its destination in real-time traffic.
+Pixelate is an event in TECHNEX(Technical fest of IIT BHU(Varanasi)). The event is about making a Robot which propagate through an arena using image processing and path planning to take the robot to its destination in real-time traffic.
+
+The problem statement can be found on this.
  
 # Code Description
  Created a python program which uses opencv to visualize and process the image and then planned the shortest path using Dijkstra Algorithm of data structure graph.
