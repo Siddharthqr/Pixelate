@@ -26,3 +26,8 @@ respective hospitals i.e., at blue circle or at blue square.
 A video feed from the overhead camera will be provided to the team. The 
 team's computer should autonomously instruct their bot throughout the 
 arena in simulation world.
+
+
+Some snapshots of the Practice Arena and main arena is shown Below
+![map](https://user-images.githubusercontent.com/77740765/178116215-8070f62f-95fc-4b45-9bf4-79376ed4aee5.jpg)
+
